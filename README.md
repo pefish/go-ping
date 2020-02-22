@@ -20,5 +20,5 @@ sudo go-ping --help
 ### Example
 
 ```shell script
-sudo go-ping 192.168.0.105
+sudo go-ping baidu.com
 ```
