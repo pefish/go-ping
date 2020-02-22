@@ -1,0 +1,15 @@
+github.com/pefish/go-arping v0.0.3 h1:aEB3DbS9uIS1ZPselGC7ob5AlPSo0cF8ZRKW9wDnYKE=
+github.com/pefish/go-arping v0.0.3/go.mod h1:E6Sn6DuyK8b/nb5O37h/PFZ/VLC3vodw0ddi4W4wpAA=
+github.com/pefish/go-ethernet v0.0.1 h1:FjqDqZPHFFo2nrHODBeN9GO5Zw/TIwVNnfZxgOw6O0s=
+github.com/pefish/go-ethernet v0.0.1/go.mod h1:KzJ0MnTDvlusDFXLvOwQ/acxezwqzadJ5UDL5Jcl1Ps=
+github.com/pefish/go-net-arp v0.0.4 h1:LiZte+4mrWCZD52CHoxG86UKP/Ba9YTtiqYnqSEbK1w=
+github.com/pefish/go-net-arp v0.0.4/go.mod h1:fmnCU47FBRwzuzl9qnHOwP93S/c4P51RjTMoZfY4GoU=
+github.com/pefish/go-net-raw v0.0.1 h1:mghJYA8ZQM5xYSEBRdKdyarxIFcqrs/rItLlzm5Iut4=
+github.com/pefish/go-net-raw v0.0.1/go.mod h1:3cdZLBBOUzvL8JgRpAir6htU6ushUp4gsoCtQRDI5Ag=
+golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
+golang.org/x/net v0.0.0-20200222033325-078779b8f2d8 h1:4l6HGmcZuPkox4Zl1b7SZQfYo8KIKvPe+5VG6ibuUEg=
+golang.org/x/net v0.0.0-20200222033325-078779b8f2d8/go.mod h1:z5CRVTTTmAJ677TzLLGU+0bjPO0LkuOLi4/5GtJWs/s=
+golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/sys v0.0.0-20200219091948-cb0a6d8edb6c h1:jceGD5YNJGgGMkJz79agzOln1K9TaZUjv5ird16qniQ=
+golang.org/x/sys v0.0.0-20200219091948-cb0a6d8edb6c/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
